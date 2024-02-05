@@ -13,6 +13,8 @@
 
     dot1x system-auth-control
 
+!Criar um usuário em PC-A (teste/teste12345)
+
 !Inserindo a autenticação por 802.1x na interface e permitindo usuarios do servidor
 interface f0/18
      switchport mode access
